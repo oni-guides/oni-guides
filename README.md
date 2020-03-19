@@ -10,4 +10,6 @@ A lot of the builds and information in my guides comes from other content creato
 
 # Example Guide
 
+- Visit the [root of this repository](https://github.com/oni-guides/oni-guides) to see all of the other guides.
+
 ![Self Powered Oxygen Machine](self-powered-oxygen-machine.png)
