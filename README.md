@@ -5,6 +5,7 @@ Guides for **Oxygen Not Included**. Each `.png` file in this repository is a gui
 - [Self Powered Oxygen Machine](./self-powered-oxygen-machine.png)
 - [Active Cooling Without Steel](./active-cooling-without-steel.png)
 - [Pipe Mechanics and Filtering](./pipe-mechanics-and-filtering.png)
+- [Cool Steam Vent Tamer for Mid-game](./cool-steam-vent-tamer-for-mid-game.png)
 
 # Sources
 
