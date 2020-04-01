@@ -7,6 +7,7 @@ Guides for **Oxygen Not Included**. Each `.png` file in this repository is a gui
 - [Pipe Mechanics and Filtering](./pipe-mechanics-and-filtering.png)
 - [Cool Steam Vent Tamer for Mid-game](./cool-steam-vent-tamer-for-mid-game.png)
 - [Practical uses for Liquid Loops](./practical-uses-for-liquid-loops.png)
+- [Petroleum Boilers](./petroleum-boilers.png)
 
 # Sources
 
