@@ -8,6 +8,7 @@ Guides for **Oxygen Not Included**. Each `.png` file in this repository is a gui
 - [Cool Steam Vent Tamer for Mid-game](./cool-steam-vent-tamer-for-mid-game.png)
 - [Practical uses for Liquid Loops](./practical-uses-for-liquid-loops.png)
 - [Petroleum Boilers](./petroleum-boilers.png)
+- [Self Powered Metal Volcano Tamer](./self-powered-metal-volcano-tamer.png) ([cheat-sheet](./self-powered-metal-volcano-tamer-cheat-sheet.png))
 
 # Sources
 
