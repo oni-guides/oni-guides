@@ -1,4 +1,6 @@
-# oni-guides
+<p align="center">
+  <img src="./assets/oxygen-not-includedgamelogo.png">
+</p>
 
 Guides for **Oxygen Not Included**. If you notice any errors or have any requests for guides please file an issue and I will do my best to respond!
 
