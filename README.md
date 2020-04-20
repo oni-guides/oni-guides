@@ -2,7 +2,7 @@
 
 Guides for **Oxygen Not Included**. If you notice any errors or have any requests for guides please file an issue and I will do my best to respond!
 
-- [Self Powered Oxygen Machine](./self-powered-oxygen-machine.png) ([cheat-sheet](./cheat-sheets/self-powered-oxygen-machine-cheat-sheet.png)) ([printable](./printable/self-powered-oxygen-machine-printable.png)) ([pt-br](./translations/pt-br/self-powered-oxygen-machine-pt-br.png))
+- [Self Powered Oxygen Machine](./self-powered-oxygen-machine/self-powered-oxygen-machine.png) ([cheat-sheet](./self-powered-oxygen-machine/self-powered-oxygen-machine-cheat-sheet.png)) ([printable](./self-powered-oxygen-machine/self-powered-oxygen-machine-printable.png)) ([pt-br](./self-powered-oxygen-machine/self-powered-oxygen-machine-pt-br.png))
 - [Active Cooling Without Steel](./active-cooling-without-steel.png)
 - [Pipe Mechanics and Filtering](./pipe-mechanics-and-filtering.png)
 - [Cool Steam Vent Tamer for Mid-game](./cool-steam-vent-tamer-for-mid-game.png)
