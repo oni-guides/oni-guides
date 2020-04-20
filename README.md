@@ -8,7 +8,7 @@ Guides for **Oxygen Not Included**. If you notice any errors or have any request
 - [Cool Steam Vent Tamer for Mid-game](./cool-steam-vent-tamer-for-mid-game.png)
 - [Practical uses for Liquid Loops](./practical-uses-for-liquid-loops.png)
 - [Petroleum Boilers](./petroleum-boilers.png)
-- [Self Powered Metal Volcano Tamer](./self-powered-metal-volcano-tamer.png) ([cheat-sheet](./cheat-sheets/self-powered-metal-volcano-tamer-cheat-sheet.png)) ([printable](./printable/self-powered-metal-volcano-tamer-printable.png))
+- [Self Powered Metal Volcano Tamer](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer.png) ([cheat-sheet](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer-cheat-sheet.png)) ([printable](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer-printable.png))
 
 # Sources
 
