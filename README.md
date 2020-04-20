@@ -1,14 +1,14 @@
 # oni-guides
 
-Guides for **Oxygen Not Included**. Each `.png` file in this repository is a guide. If you notice any errors or have any requests for guides please file an issue and I will do my best to respond!
+Guides for **Oxygen Not Included**. If you notice any errors or have any requests for guides please file an issue and I will do my best to respond!
 
-- [Self Powered Oxygen Machine](./self-powered-oxygen-machine.png)
+- [Self Powered Oxygen Machine](./self-powered-oxygen-machine.png) ([cheat-sheet](./cheat-sheets/self-powered-metal-volcano-tamer-cheat-sheet.png))
 - [Active Cooling Without Steel](./active-cooling-without-steel.png)
 - [Pipe Mechanics and Filtering](./pipe-mechanics-and-filtering.png)
 - [Cool Steam Vent Tamer for Mid-game](./cool-steam-vent-tamer-for-mid-game.png)
 - [Practical uses for Liquid Loops](./practical-uses-for-liquid-loops.png)
 - [Petroleum Boilers](./petroleum-boilers.png)
-- [Self Powered Metal Volcano Tamer](./self-powered-metal-volcano-tamer.png) ([cheat-sheet](./self-powered-metal-volcano-tamer-cheat-sheet.png))
+- [Self Powered Metal Volcano Tamer](./self-powered-metal-volcano-tamer.png) ([cheat-sheet](./cheat-sheets/self-powered-metal-volcano-tamer-cheat-sheet.png))
 
 # Sources
 
