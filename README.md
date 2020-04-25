@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/oxygen-not-includedgamelogo.png">
+  <a href="https://www.klei.com/games/oxygen-not-included">
+    <img src="./assets/oxygen-not-includedgamelogo.png">
+  </a>
 </p>
 
 Guides for **Oxygen Not Included**. If you notice any errors or have any requests for guides please file an issue and I will do my best to respond!
