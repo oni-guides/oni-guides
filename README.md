@@ -15,8 +15,9 @@ Guides for **Oxygen Not Included**. If you notice any errors or have any request
 
 # Sources
 
-A lot of the builds and information in my guides comes from other content creators. I do my best to mention the creators whose content I've referenced at the end of each guide. The entire list is here (in alphabetical order):
+A lot of the builds and information in my guides comes from ideas in the community and other content creators. I do my best to mention the sources used at the end of each guide. The entire list is here (in alphabetical order):
 
+- [u/belovedeagle @ Reddit](https://redd.it/fuxen5)
 - [Brothgar @ YouTube](https://www.youtube.com/channel/UC1BZnq-fX0Ea4ka4d8cnc0w)
 - [Francis John @ YouTube](https://www.youtube.com/channel/UCk6C1z_ErW4XssWUdDSfV7Q)
 - [Tony Advanced @ YouTube](https://www.youtube.com/channel/UC3LfCJ2vQi-vSP6JXLG6l5w)
