@@ -15,6 +15,14 @@ Guides for **Oxygen Not Included**. If you notice any errors or have any request
 - [Self Powered Metal Volcano Tamer](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer.png) ([cheat-sheet](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer-cheat-sheet.png)) ([printable](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer-printable.png))
 - [Liquid Locks and Vacuums](./liquid-locks-and-vacuums/liquid-locks-and-vacuums.png) ([cheat-sheet](./liquid-locks-and-vacuums/liquid-locks-and-vacuums-cheat-sheet.png)) ([printable](./liquid-locks-and-vacuums/liquid-locks-and-vacuums-printable.png))
 
+# Mini-guides
+
+These are short guides that are much less polished. They are basically just some screenshots to reference. Some of these will eventually be turned into full guides, but I've put them here first in order to get them in front of the community faster.
+
+- [Hatch Ranching](./mini-guides/hatch-ranching.png)
+- [Infinite Storage](./mini-guides/infinite-storage.png)
+- [Scanner Network](./mini-guides/scanner-network.png)
+
 # Sources
 
 A lot of the information in my guides comes from ideas in the community and other content creators. I do my best to mention the sources used at the end of each guide. The entire list is here (in alphabetical order):
