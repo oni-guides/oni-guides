@@ -15,6 +15,7 @@ Guides for **Oxygen Not Included**. If you notice any errors or have any request
 - [Self Powered Metal Volcano Tamer](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer.png) ([cheat-sheet](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer-cheat-sheet.png)) ([printable](./self-powered-metal-volcano-tamer/self-powered-metal-volcano-tamer-printable.png))
 - [Liquid Locks and Vacuums](./liquid-locks-and-vacuums/liquid-locks-and-vacuums.png) ([cheat-sheet](./liquid-locks-and-vacuums/liquid-locks-and-vacuums-cheat-sheet.png)) ([printable](./liquid-locks-and-vacuums/liquid-locks-and-vacuums-printable.png))
 - [Melting Insulation for Extra Tungsten](./melting-insulation-for-extra-tungsten/melting-insulation-for-extra-tungsten.png) ([cheat-sheet](./melting-insulation-for-extra-tungsten/melting-insulation-for-extra-tungsten-cheat-sheet.png)) ([printable](./melting-insulation-for-extra-tungsten/melting-insulation-for-extra-tungsten-printable.png))
+- [Water Geyser Tamer](./water-geyser-tamer/water-geyser-tamer.png)
 
 
 # Mini-guides
