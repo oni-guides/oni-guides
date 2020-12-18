@@ -52,8 +52,10 @@ These are just some rough notes for myself.
   - Start clearing out and insulating your core base area (insulate earlier on more harsh worlds)
   - Coal generator + smart battery hookup at the bottom of your base
 - Mid game goals:
+  - Get plastic/steel
   - Set up SPOM
   - Set up active cooling
+  - Set up hatch ranches  
   - _todo: add more goals_
 - Late game goals:
   - _todo: add more goals_
