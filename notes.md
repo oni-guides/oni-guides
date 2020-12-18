@@ -2,7 +2,7 @@
 
 These are just some rough notes for myself.
 
-# Early Game
+# Rough Outline
 
 - **Roll dupes**
   - Digger
