@@ -63,3 +63,13 @@ These are just some rough notes for myself.
   - _todo: add more goals_
 - **Late game goals:**
   - _todo: add more goals_
+
+# Debug Mode
+
+- Create file:
+  - `debug_enable` in `...\SteamLibrary\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data`
+  - Restart game
+- Enable debug panel while in game: `Backspace`
+- Instant build: `Ctrl + F4`
+- Teleport: `Alt + Q` (while something is selected)
+- Ultra mode: `Ctrl + U` (runs as fast as possible)
